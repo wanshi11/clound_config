@@ -1,2 +1,2 @@
 config:
-    info: version=1,from dev
+  info: "master branch,springcloud-config/config-dev.yml version=1"
